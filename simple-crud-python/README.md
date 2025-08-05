@@ -11,5 +11,4 @@ A Basic terminal-based CRUD application using Python and SQLite3
 - Python 3.x
 
 # Run the App
-- For Linux Machine
-python3 crud_app.py
+- For Linux Machine: python3 crud_app.py
